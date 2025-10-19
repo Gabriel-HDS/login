@@ -9,7 +9,7 @@
     <title>home</title>
 </head>
 <body>
-<h1>BIENVENIDOS</h1>
+<h1>BIENVENIDOS AMIGOS A LA PRUEBA</h1>
     
 </body>
 </html>
